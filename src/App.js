@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import { SkeletonTheme } from 'react-loading-skeleton';
-import { Router } from 'react-router';
+import Router from './Router/router';
 
 function App() {
   return (
